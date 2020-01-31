@@ -1,0 +1,33 @@
+.card-album, .card-album-add{
+    max-width: 150px;
+    max-height: 200px;
+    min-height: 200px;
+    height: 200px;
+    margin-bottom: 1em; 
+}
+.card-image img{
+    height: 200px !important;
+    width: 100% !important;
+}
+.card-album div .card-content{
+    display: none;
+}
+.card-album-add .card-content{
+    max-width: 150px;
+    max-height: 200px;
+    min-height: 200px;
+    height: 200px;
+    padding: 0 !important;
+}
+.btn-addAlbum{
+    margin: 40% auto;
+}
+.card-title{
+    padding: 0.1em !important;
+    width: 100% !important;
+    font-size: 1.2em !important;
+    background-color: rgba(000, 0, 0, 0.5) !important
+}
+.modal-close{
+    display: none;
+}
